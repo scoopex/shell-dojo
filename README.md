@@ -9,6 +9,11 @@ This repo is maintained incidentally :-)
 Your are very welcome to contribute to this repo.
 Fork this project and send pull requests if you a capable to provide fixes, contrubutions or enhancements.
 
+# Table of contents
+
+ * [The licence of this content](LICENSE)
+ * [Lesson about basic tracing and analysis of processes](lesson-process-analysis-tools.md)
+
 # Develop
 
 ```
