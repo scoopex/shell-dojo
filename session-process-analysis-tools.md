@@ -1,8 +1,8 @@
 # Description
 
-This lesson describes how to analyze the behavior of a current process
+This session describes how to analyze the behavior of a current process
 
-## Tracing process beavior - STrace
+# Tracing process beavior - STrace
 
 Strace is a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state. The operation of strace is made possible by the kernel feature known as ptrace.
 

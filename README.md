@@ -12,9 +12,12 @@ Fork this project and send pull requests if you a capable to provide fixes, cont
 # Table of contents
 
  * [The licence of this content](LICENSE)
- * [Lesson about basic tracing and analysis of processes](lesson-process-analysis-tools.md)
+ * [Session about basic tracing and analysis of processes](session-process-analysis-tools.md)
+ * [Session about basic java-virtual-machine anlysis](session-java-virtual-machine-analysis.md)
 
 # Develop
+
+See also: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
 
 ```
 virtualenv cenv-pip
