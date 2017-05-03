@@ -2,7 +2,7 @@
 
 This session describes how to analyze the behavior of a current process
 
-# Tracing process beavior - STrace
+# Tracing process behavior - STrace
 
 Strace is a diagnostic, debugging and instructional userspace utility for Linux. It is used to monitor and tamper with interactions between processes and the Linux kernel, which include system calls, signal deliveries, and changes of process state. The operation of strace is made possible by the kernel feature known as ptrace.
 
@@ -14,7 +14,7 @@ Strace might be useful:
 
 The following commands can help to find a first detailed impression whats going wrong with a running software:
 
- * Create statistical data of the characteristics of syscalls, executiontimes and errors of a running (java) process an suprocesses/threads
+ * Create statistical data of the characteristics of syscalls, executiontimes and errors of a running (java) process an subprocesses/threads
    Wait a few seconds and stop tracing by hitting STRG+c
    ```
    strace -f -c -p <PID> 
@@ -47,7 +47,7 @@ The following commands can help to find a first detailed impression whats going 
    # see strace manpage
    ```
 
- * Extensively log the beahvior of a process : syscall, parameters, enviroment variables, ...
+ * Extensively log the behavior of a process : syscall, parameters, environment variables, ...
    ```
    strace -frvT -s128 -o /tmp/foo -p <PID>
    ```
