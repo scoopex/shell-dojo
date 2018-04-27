@@ -12,6 +12,7 @@ Fork this project and send pull requests if you a capable to provide fixes, cont
 # Table of contents
 
  * [The licence of this content](LICENSE)
+ * [Session: daily administration tasks for developers](session-daily-admin.md)
  * [Session: basic tracing and analysis of processes](session-process-analysis-tools.md)
  * [Session: basic java-virtual-machine analysis](session-java-virtual-machine-analysis.md)
  * [Session: useful ssh things](session-ssh.md)
